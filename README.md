@@ -50,7 +50,7 @@ Authorization: Bearer <ACCESS_TOKEN>
 ```
 ## Routes
 
-Based on the previous `db.json` file, here are all the default routes. You can also add [other routes](#add-custom-routes) using `--routes`.
+Based on the previous `db.json` file, here are all the default routes.
 
 ### Routes
     /users
