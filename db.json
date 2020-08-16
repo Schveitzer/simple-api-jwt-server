@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ballard Steele",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "age": 29,
+      "gender": "male",
+      "company": "SPACEWAX",
+      "email": "ballardsteele@spacewax.com",
+      "phone": "+1 (892) 549-3680",
+      "address": "394 Homecrest Court, Idamay, Oklahoma, 5281"
+    },
+    {
+      "id": 2,
+      "name": "Taylor Vazquez",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "gender": "female",
+      "company": "SILODYNE",
+      "email": "taylorvazquez@silodyne.com",
+      "phone": "+1 (956) 558-3367",
+      "address": "907 Walker Court, Springdale, Marshall Islands, 5449"
+    },
+    {
+      "id": 3,
+      "name": "Nora Horton",
+      "isActive": true,
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "gender": "female",
+      "company": "GEOFORMA",
+      "email": "norahorton@geoforma.com",
+      "phone": "+1 (896) 519-3962",
+      "address": "903 Riverdale Avenue, Oneida, Hawaii, 2993"
+    },
+    {
+      "id": 4,
+      "name": "Denise Guthrie",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "gender": "female",
+      "company": "ELITA",
+      "email": "deniseguthrie@elita.com",
+      "phone": "+1 (915) 407-2707",
+      "address": "537 Village Road, Smeltertown, New Jersey, 6222"
+    },
+    {
+      "id": 5,
+      "name": "Cleo Porter",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "age": 27,
+      "gender": "female",
+      "company": "ZILLATIDE",
+      "email": "cleoporter@zillatide.com",
+      "phone": "+1 (802) 477-3571",
+      "address": "766 Joval Court, Motley, District Of Columbia, 8822"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Build an API using GO",
+      "authorId": 2
+    },
+    {
+      "id": 2,
+      "title": "Build an API using API Platform",
+      "authorId": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Brilliant",
+      "articleId": 1
+    },
+    {
+      "id": 2,
+      "body": "Awesome",
+      "articleId": 2
+    },
+    {
+      "id": 3
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "username": "rpierlot",
+      "title": "Romain Pierlot"
+    },
+    {
+      "id": 2,
+      "username": "qneyrat",
+      "title": "Quentin Neyrat"
+    }
+  ]
+}

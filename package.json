@@ -1,0 +1,10 @@
+{
+  "name": "fake-api-jwt-server",
+  "license": "MIT",
+  "scripts": {
+    "init:server": "npx hai-server --watch db.json --auth auth.json --routes routes.json --port 3000"
+  },
+  "dependencies": {
+    "hai-server": "^0.0.4"
+  }
+}
