@@ -48,6 +48,8 @@ You should send this authorization with any request to the protected endpoints
 ```
 Authorization: Bearer <ACCESS_TOKEN>
 ```
+<img src="https://i.ibb.co/VYNFRB2/Captura-de-tela-de-2020-08-16-19-35-13.png" alt="Captura-de-tela-de-2020-08-16-19-35-13" border="0"><br />
+
 ## Routes
 
 Based on the previous `db.json` file, here are all the default routes.
